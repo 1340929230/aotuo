@@ -99,6 +99,7 @@ a{text-decoration: none;}
 
 .banner{
 	height: 430px;
+	width: 100%;
 	background: url('../images/f2.png') no-repeat center;
 }
 .banner .dingw{

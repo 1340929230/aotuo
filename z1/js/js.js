@@ -1,4 +1,4 @@
-
+                          window.onload=function(){
                            //创建和初始化地图函数：
                             function initMap(){
                                 createMap();//创建地图
@@ -94,3 +94,4 @@
                                 }
 
                             initMap();//创建和初始化地图
+                            }
